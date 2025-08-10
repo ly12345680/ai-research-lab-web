@@ -16,13 +16,11 @@ A modern React.js and Node.js website for showcasing AI research products and te
 - **Video Support**: Product videos with proper video player controls
 - **Responsive Design**: Mobile-friendly layout that works on all devices
 - **Large Typography**: Easy-to-read font sizes for better accessibility
-- **Network Access**: Accessible from any device on your network
 
-## 📸 Screenshots
 
-![Homepage](https://via.placeholder.com/800x400?text=AI+Research+Platform+Homepage)
-![Products](https://via.placeholder.com/800x400?text=Products+Section)
-![Team](https://via.placeholder.com/800x400?text=Team+Section)
+
+
+
 
 ## Project Structure
 
