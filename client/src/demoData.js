@@ -29,10 +29,30 @@ export const demoTeam = [
     email: "ducly.vu@airesearch.dev",
     linkedin: "https://www.linkedin.com/in/ly-vu-865b5819b",
     homepage: "https://www.lyvu.dev/",
-    image_url: "https://via.placeholder.com/200x200"
+    image_url: "https://static.vecteezy.com/system/resources/previews/024/766/958/original/default-male-avatar-profile-icon-social-media-user-free-vector.jpg"
   },
   {
     id: "2",
+    name: "PhD. Phạm Đại Xuân",
+    title: "Teacher",
+    bio: "",
+    email: "",
+    linkedin: "",
+    homepage: "",
+    image_url: "https://static.vecteezy.com/system/resources/previews/024/766/958/original/default-male-avatar-profile-icon-social-media-user-free-vector.jpg"
+  },
+  {
+    id: "3",
+    name: "Samarjit Roy",
+    title: "Teacher",
+    bio: "",
+    email: "",
+    linkedin: "",
+    homepage: "",
+    image_url: "https://static.vecteezy.com/system/resources/previews/024/766/958/original/default-male-avatar-profile-icon-social-media-user-free-vector.jpg"
+  }.
+  {
+    id: "4",
     name: "Nguyen Hoang Ly",
     title: "TA",
     bio: "",
