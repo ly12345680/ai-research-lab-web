@@ -50,7 +50,7 @@ export const demoTeam = [
     linkedin: "",
     homepage: "",
     image_url: "https://static.vecteezy.com/system/resources/previews/024/766/958/original/default-male-avatar-profile-icon-social-media-user-free-vector.jpg"
-  }.
+  },
   {
     id: "4",
     name: "Nguyen Hoang Ly",
