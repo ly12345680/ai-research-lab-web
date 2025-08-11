@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ly12345680.github.io/ai-research-web",
+  "homepage": "https://ly12345680.github.io/ai-research-lab-web",
   "proxy": "http://localhost:3001",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
