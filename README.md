@@ -4,7 +4,7 @@ A modern React.js and Node.js website for showcasing AI research products and te
 
 ## 🚀 Live Demo
 
-**Frontend**: [Live Demo](https://ly12345680.github.io/ai-research-web/)  
+**Frontend**: [Live Demo](https://ly12345680.github.io/ai-research-lab-web/)  
 **Local Development**: http://localhost:3000  
 **API Server**: http://localhost:3001
 
